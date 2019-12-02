@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Steps for install`
+
+### `1. npx create-react-app todoApp`
+### `2. cd todoApp`
+### `3. npm install react-router-dom`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
